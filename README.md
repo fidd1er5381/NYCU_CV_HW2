@@ -1,6 +1,6 @@
 # Digit Detection and Recognition
 
-StudentID: 313553023 
+StudentID: 313553023  
 Name: 褚敏匡
 
 # NYCU Computer Vision 2025 Spring - Homework 2
