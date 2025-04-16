@@ -13,7 +13,7 @@ This repository contains an implementation of a Faster R-CNN model with attentio
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/NYCU_CV_HW2.git
+git clone https://github.com/fidd1er5381/NYCU_CV_HW2.git
 cd NYCU_CV_HW2
 ```
 
