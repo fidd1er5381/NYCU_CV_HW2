@@ -1,13 +1,12 @@
-# Digit Detection and Recognition
+# NYCU Computer Vision 2025 Spring - Homework 2
 
 StudentID: 313553023  
 Name: 褚敏匡
 
-# NYCU Computer Vision 2025 Spring - Homework 2
 
 ## Introduction
 
-This repository contains an implementation of a Faster R-CNN model with attention mechanisms for digit detection and recognition. The system can detect individual digits in images and recognize complete numbers formed by these digits, developed as part of the NYCU Computer Vision course.
+This repository contains an implementation of a Faster R-CNN model with attention mechanisms for digit detection and recognition. The system can detect individual digits in images and recognize complete numbers formed by these digits.
 
 ## Installation
 
