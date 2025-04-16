@@ -86,12 +86,6 @@ This will generate:
 - Task 1 (Digit Detection): mAP = 0.39
 - Task 2 (Number Recognition): Accuracy = 0.80
 
-## Visualization
-
-The training script generates:
-- Training Loss Curves
-- Validation mAP Curves
-- Sample Prediction Visualizations
 
 ## Outputs
 
