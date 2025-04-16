@@ -86,6 +86,9 @@ This will generate:
 - Task 1 (Digit Detection): mAP = 0.38
 - Task 2 (Number Recognition): Accuracy = 0.83
 
+## Performance Snapshot
+![image](https://github.com/user-attachments/assets/7b693ee8-86c5-49aa-9cd7-8009415f3657)
+
 
 ## Outputs
 
