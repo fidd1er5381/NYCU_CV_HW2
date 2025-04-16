@@ -83,8 +83,8 @@ This will generate:
 - Early Stopping: Patience of 5 epochs
 
 ### Performance Metrics
-- Task 1 (Digit Detection): mAP = 0.39
-- Task 2 (Number Recognition): Accuracy = 0.80
+- Task 1 (Digit Detection): mAP = 0.38
+- Task 2 (Number Recognition): Accuracy = 0.83
 
 
 ## Outputs
